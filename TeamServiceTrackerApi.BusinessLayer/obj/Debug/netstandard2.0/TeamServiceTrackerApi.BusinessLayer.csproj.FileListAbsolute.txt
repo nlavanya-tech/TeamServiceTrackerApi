@@ -1,0 +1,13 @@
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\bin\Debug\netstandard2.0\TeamServiceTrackerApi.BusinessLayer.deps.json
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\bin\Debug\netstandard2.0\TeamServiceTrackerApi.BusinessLayer.dll
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\bin\Debug\netstandard2.0\TeamServiceTrackerApi.BusinessLayer.pdb
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\bin\Debug\netstandard2.0\TeamServiceTrackerApi.DataLayer.dll
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\bin\Debug\netstandard2.0\TeamServiceTrackerApi.Entities.dll
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\bin\Debug\netstandard2.0\TeamServiceTrackerApi.DataLayer.pdb
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\bin\Debug\netstandard2.0\TeamServiceTrackerApi.Entities.pdb
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\obj\Debug\netstandard2.0\TeamServiceTrackerApi.BusinessLayer.csprojAssemblyReference.cache
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\obj\Debug\netstandard2.0\TeamServiceTrackerApi.BusinessLayer.AssemblyInfoInputs.cache
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\obj\Debug\netstandard2.0\TeamServiceTrackerApi.BusinessLayer.AssemblyInfo.cs
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\obj\Debug\netstandard2.0\TeamServiceTrackerApi.BusinessLayer.csproj.CopyComplete
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\obj\Debug\netstandard2.0\TeamServiceTrackerApi.BusinessLayer.dll
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.BusinessLayer\obj\Debug\netstandard2.0\TeamServiceTrackerApi.BusinessLayer.pdb

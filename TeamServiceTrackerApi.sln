@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamServiceTrackerApi", "TeamServiceTrackerApi\TeamServiceTrackerApi.csproj", "{E3842DF8-1D30-4517-BF18-D0406E32DBAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamServiceTrackerApi.BusinessLayer", "TeamServiceTrackerApi.BusinessLayer\TeamServiceTrackerApi.BusinessLayer.csproj", "{E5FD8603-6597-4100-A298-A74BFA880CF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamServiceTrackerApi.DataLayer", "TeamServiceTrackerApi.DataLayer\TeamServiceTrackerApi.DataLayer.csproj", "{AF49778D-0BE5-4793-9130-621C50BD829B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamServiceTrackerApi.Entities", "TeamServiceTrackerApi.Entities\TeamServiceTrackerApi.Entities.csproj", "{4E82E6AF-DE9B-4AAB-AB18-37023A677FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamServiceTrackerApi.Test", "TeamServiceTrackerApi.Test\TeamServiceTrackerApi.Test.csproj", "{819C2572-5F63-44F6-A7A5-436E3115D2C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3842DF8-1D30-4517-BF18-D0406E32DBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3842DF8-1D30-4517-BF18-D0406E32DBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3842DF8-1D30-4517-BF18-D0406E32DBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3842DF8-1D30-4517-BF18-D0406E32DBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FD8603-6597-4100-A298-A74BFA880CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FD8603-6597-4100-A298-A74BFA880CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FD8603-6597-4100-A298-A74BFA880CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FD8603-6597-4100-A298-A74BFA880CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF49778D-0BE5-4793-9130-621C50BD829B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF49778D-0BE5-4793-9130-621C50BD829B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF49778D-0BE5-4793-9130-621C50BD829B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF49778D-0BE5-4793-9130-621C50BD829B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E82E6AF-DE9B-4AAB-AB18-37023A677FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E82E6AF-DE9B-4AAB-AB18-37023A677FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E82E6AF-DE9B-4AAB-AB18-37023A677FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E82E6AF-DE9B-4AAB-AB18-37023A677FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819C2572-5F63-44F6-A7A5-436E3115D2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819C2572-5F63-44F6-A7A5-436E3115D2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819C2572-5F63-44F6-A7A5-436E3115D2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819C2572-5F63-44F6-A7A5-436E3115D2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {105948D9-E182-4F61-80C4-B5004F0EF104}
+	EndGlobalSection
+EndGlobal

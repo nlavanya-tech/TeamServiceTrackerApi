@@ -1,0 +1,7 @@
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\bin\Debug\netstandard2.0\TeamServiceTrackerApi.Entities.deps.json
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\bin\Debug\netstandard2.0\TeamServiceTrackerApi.Entities.dll
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\bin\Debug\netstandard2.0\TeamServiceTrackerApi.Entities.pdb
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\obj\Debug\netstandard2.0\TeamServiceTrackerApi.Entities.AssemblyInfoInputs.cache
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\obj\Debug\netstandard2.0\TeamServiceTrackerApi.Entities.AssemblyInfo.cs
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\obj\Debug\netstandard2.0\TeamServiceTrackerApi.Entities.dll
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\obj\Debug\netstandard2.0\TeamServiceTrackerApi.Entities.pdb
