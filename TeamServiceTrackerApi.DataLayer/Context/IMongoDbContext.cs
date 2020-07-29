@@ -8,7 +8,8 @@ namespace TeamServiceTrackerApi.DataLayer.Context
 {
   public interface IMongoDbContext
     {
-        IMongoCollection<Teams> teams { get;}
+        // IMongoCollection<TEntity> GetCollection<TEntity>(string name);
+        IMongoCollection<Teams> teams { get; }
         IMongoCollection<Users> users { get; }
     }
 }

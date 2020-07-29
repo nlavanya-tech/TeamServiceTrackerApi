@@ -4,11 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using TeamServiceTrackerApi.BusinessLayer.Interface;
 using TeamServiceTrackerApi.BusinessLayer.Services;
@@ -30,7 +28,13 @@ namespace TeamServiceTrackerApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
+            services.AddMvc();
+            //services.AddMvcCore().AddJsonOptions(options =>
+            //{
+            //    options.SerializerSettings.Converters.Add(new Newtonsoft.Json.Converters.StringEnumConverter());
+            //    options.SerializerSettings.NullValueHandling = Newtonsoft.Json.NullValueHandling.Ignore;
+            //});
+
             services.Configure<MongoDbSetting>(sp =>
             {
                 sp.ConnectionString = Configuration.GetSection("TeamTrackerDatabase:ConnectionString").Value;
@@ -45,22 +49,26 @@ namespace TeamServiceTrackerApi
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
+            else {
+                app.UseHsts();
+            }
+               
 
             app.UseHttpsRedirection();
 
-            app.UseRouting();
 
-            app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
+            app.UseMvc(route =>
             {
-                endpoints.MapControllers();
+                route.MapRoute(
+                        name: default,
+                        template: "{controller}/{action=Index}/{id?}");  
             });
         }
     }

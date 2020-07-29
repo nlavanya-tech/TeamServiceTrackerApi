@@ -21,10 +21,10 @@ namespace TeamServiceTrackerApi.Test.TestCases
         public readonly Mock<IUserRepository> Userservice = new Mock<IUserRepository>();
         static Boundary()
         {
-            if (!File.Exists("../../../../output_functional_revised.txt"))
+            if (!File.Exists("../../../../output_boundary_revised.txt"))
                 try
                 {
-                    File.Create("../../../../output_functional_revised.txt").Dispose();
+                    File.Create("../../../../output_boundary_revised.txt").Dispose();
                 }
                 catch (Exception)
                 {
@@ -32,8 +32,8 @@ namespace TeamServiceTrackerApi.Test.TestCases
                 }
             else
             {
-                File.Delete("../../../../output_functional_revised.txt");
-                File.Create("../../../../output_functional_revised.txt").Dispose();
+                File.Delete("../../../../output_boundary_revised.txt");
+                File.Create("../../../../output_boundary_revised.txt").Dispose();
             }
         }
         public Boundary()

@@ -1,0 +1,9 @@
+Test_DeleteUser=True
+Test_DeleteTeams=True
+Test_GetAllTeams=True
+Test_CreateTeam=True
+Test_UpdatedTeam=True
+Test_ValidateEmptyTeam=True
+Test_CreateUser=True
+Test_GetAllUsers=True
+Test_UpdatedTeam=True
