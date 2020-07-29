@@ -1,8 +1,0 @@
-Test_validateEmptyStringForDomainOfWork=True
-Test_ValidateEmptystringReportingTo=True
-Test_ValidateEmptystringUsertype=True
-Test_ValidateEmptystringMobile=True
-Test_validateEmptyStringForTeamName=True
-Test_validateEmptyStringForTeamMembers=True
-Test_validateEmptyStringForTeamManager=True
-Test_validateUserEmail=True

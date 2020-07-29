@@ -11,7 +11,7 @@ namespace TeamServiceTrackerApi.Entities
     {
         [Key]
         [BsonId]
-       //// [BsonRepresentation(BsonType.ObjectId)]
+        [BsonRepresentation(BsonType.ObjectId)]
         public string TeamName { get; set; }
         public string TeamManager { get; set; }
         public string DomainOfWork { get; set; }

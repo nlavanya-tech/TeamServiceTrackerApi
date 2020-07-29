@@ -5,3 +5,4 @@ I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.E
 I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\obj\Debug\netcoreapp2.2\TeamServiceTrackerApi.Entities.AssemblyInfo.cs
 I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\obj\Debug\netcoreapp2.2\TeamServiceTrackerApi.Entities.dll
 I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\obj\Debug\netcoreapp2.2\TeamServiceTrackerApi.Entities.pdb
+I:\IIHT\TeamTracker\FSE_PA\project\TeamServiceTrackerApi\TeamServiceTrackerApi.Entities\obj\Debug\netcoreapp2.2\TeamServiceTrackerApi.Entities.csprojAssemblyReference.cache

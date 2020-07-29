@@ -263,7 +263,7 @@ namespace TeamServiceTrackerApi.Test.TestCases
                 finalresult = true;
 
             //finalresult displaying in text file
-            File.AppendAllText("../../../../output__revised.txt", "Test_ValidateEmptyUser=" + finalresult + "\n");
+            File.AppendAllText("../../../../output_revised.txt", "Test_ValidateEmptyUser=" + finalresult + "\n");
             Assert.NotNull(result);
         }
     }
